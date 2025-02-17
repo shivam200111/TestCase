@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <servers>
+        <server>
+            <id>sonar</id>
+            <username>HP</username>
+            <password>sqp_c4d2bb6be0eb8a3486c2bfe4e6d038f0b3c689f1</password>
+        </server>
+    </servers>
+</settings>
